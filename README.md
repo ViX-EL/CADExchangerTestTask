@@ -1,4 +1,4 @@
-# CADExchangerTestTaskMyDecision
+# CADExchangerTestTaskMySolution
 Мое решение тестового задания от CAD Exchanger. 
 
 Проекты компилируются по-очереди сначала библиотека, затем клиентское приложение. 
